@@ -13,16 +13,16 @@ audio::-webkit-media-controls-play-button{
 }
 
 audio::-webkit-media-controls-current-time-display{
-    color: #333;
+    color: #feffba;
 }
 
 audio::-webkit-media-controls-current-time-remaining-display{
-    color: #333;
+    color: #f2f8a5;
 }
 
 audio::-webkit-media-controls-timeline{
     border-radius: 40px;
-    background-color: lightblue;
+    background-color: rgb(107, 147, 160);
 }
 
 audio::-webkit-media-controls-volume-slider{
