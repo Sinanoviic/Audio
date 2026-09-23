@@ -13,11 +13,11 @@ audio::-webkit-media-controls-play-button{
 }
 
 audio::-webkit-media-controls-current-time-display{
-    color: #feffba;
+    color: #7a7b4d35;
 }
 
 audio::-webkit-media-controls-current-time-remaining-display{
-    color: #f2f8a5;
+    color: #f6fab6;
 }
 
 audio::-webkit-media-controls-timeline{
