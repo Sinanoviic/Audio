@@ -18,6 +18,7 @@ audio::-webkit-media-controls-current-time-display{
 
 audio::-webkit-media-controls-current-time-remaining-display{
     color: #f6fab6;
+    
 }
 
 audio::-webkit-media-controls-timeline{
